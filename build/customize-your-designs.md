@@ -12,7 +12,7 @@ description: Designers don't start from scratch, clone our designs on Figma
 
 {% tabs %}
 {% tab title="Design File" %}
-[https://www.figma.com/file/S5jeajsPNMrjEdC9ajSRQo/GASPUMP%3A-Fuel-NFTs?node-id=0%3A1\&t=S5D6HDr30QywTa4o-0](https://www.figma.com/file/S5jeajsPNMrjEdC9ajSRQo/GASPUMP%3A-Fuel-NFTs?node-id=0%3A1\&t=S5D6HDr30QywTa4o-0)
+{% embed url="https://www.figma.com/file/S5jeajsPNMrjEdC9ajSRQo/GASPUMP%3A-Fuel-NFTs?node-id=0:1&t=S5D6HDr30QywTa4o-0" %}
 {% endtab %}
 
 {% tab title="Prototyped" %}

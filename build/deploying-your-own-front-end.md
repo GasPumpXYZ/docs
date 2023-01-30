@@ -15,7 +15,7 @@ description: >-
 Clone the repo here&#x20;
 
 ```
-git clone .....
+git clone https://github.com/GasPumpXYZ/boilerplate-app.git
 ```
 {% endtab %}
 {% endtabs %}
