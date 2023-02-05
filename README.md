@@ -11,7 +11,7 @@ description: >-
 **GasPump tip:** Anyone can launch a NFT with Fuel. Not a developer, don't worry contact us on twitter and we'll help you launch.
 {% endhint %}
 
-## Overview
+## :map: Overview
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)
@@ -21,7 +21,7 @@ description: >-
 [our-features](overview/our-features/)
 {% endcontent-ref %}
 
-## Get Started
+## :pushpin: Get Started
 
 We've put together some helpful guides for you to get setup with GasPump quickly and easily.
 
@@ -56,3 +56,4 @@ Stay Close to the Pump
 * 🦜 Twitter [https://twitter.com/GasPumpXYZ](https://twitter.com/GasPumpXYZ)
 * ✏️ Blog [https://medium.com/@gaspump](https://medium.com/@gaspump)
 * 📖 Docs [https://docs.gaspump.xyz/](https://docs.gaspump.xyz/)
+* :briefcase: LinkedIn [https://www.linkedin.com/company/gaspump](https://www.linkedin.com/company/gaspump)

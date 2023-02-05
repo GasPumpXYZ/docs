@@ -1,22 +1,34 @@
+---
+description: Helpful resources in the Fuel Ecosystem
+---
+
 # ⚡ Fuel Resources
 
 ## Fuel Resources
 
-Github
+#### Github
 
 {% embed url="https://github.com/FuelLabs" %}
 
-NFT Application
+Ecosystem Aggregator
 
+{% embed url="https://github.com/FuelLabs/awesome-fuel" %}
 
+#### Example dApp - SwaySwap
 
-NFT Library
+{% embed url="https://fuellabs.github.io/sway-applications/book/documentation/project-quality/documentation/index.html" %}
+
+### NFT Application
+
+{% embed url="https://github.com/FuelLabs/sway-applications/tree/master/NFT" %}
+
+#### NFT Library
 
 {% embed url="https://github.com/FuelLabs/sway-libs/blob/master/libs/nft/src/lib.sw" %}
 
 {% embed url="https://fuellabs.github.io/sway-applications/book/documentation/project-quality/documentation/index.html" %}
 
-Discourse
+#### Discourse (Governance Forum)
 
 {% embed url="https://forum.fuel.network/" %}
 

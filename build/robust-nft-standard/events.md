@@ -4,6 +4,8 @@ description: Blockchains be talking back
 
 # 🔔 Events
 
-## Types of Events Support
+Events are defined as JSON outputs put out by the block explorer
+
+## Types of Events Supported
 
 ## Example of Event

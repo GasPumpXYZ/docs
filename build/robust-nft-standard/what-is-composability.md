@@ -8,13 +8,11 @@ description: >-
 
 ## What Is & Isn't NFT Composability
 
-Composaiblity in the context of NFTs is defined as NFTs that can be combined together and subsequently be broken down. This means when peices are combined into a whole, the peices cannot be used (transferred).&#x20;
+Composaiblity in the context of NFTs is defined as NFTs that can be combined together and subsequently be broken down. This means when pieces are combined into a whole, the pieces cannot be used (transferred).&#x20;
 
+In this case composability is not referring to being able to break up smart contract code into modular components.&#x20;
 
-
-
-
-This is different a multioken  gated mint that allows a NFT to be minted by having "pre-requisite" NFTs. This is also different than 1 NFT acting a token gate for multiple token whitelists. The main difference here different NFTs are prerequisites for acquiring another rather that combining and dissambling NFTs.&#x20;
+This is different a multitoken gated mint that allows a NFT to be minted by having "pre-requisite" NFTs. This is also different than 1 NFT acting a token gate for multiple token whitelists. The main difference here different NFTs are prerequisites for acquiring another rather that combining and disassembling NFTs.&#x20;
 
 ## :books: Terms
 
@@ -22,7 +20,7 @@ One might refer to NFTs that combine together into a bigger NFT as children, how
 
 **Piece** and **whole**.
 
-Something that is a a bunch of pieces made whole, can also be a piece in a bigger whole.&#x20;
+Something that is a a bunch of pieces can be made into whole and can also be a piece in a bigger whole.&#x20;
 
 This is composability.&#x20;
 
@@ -34,18 +32,22 @@ This is composability.&#x20;
 
 ## :thinking: Questions We Asked Ourself
 
-* Should we define composability within a NFT or with a seperate proxy contract? How does a NFT know if it belongs to something bigger?&#x20;
+* Should we define composability within a NFT or with a separate proxy contract? How does a NFT know if it belongs to something bigger?&#x20;
 * Should we burn a NFT (how do we get it back), should we long piece NFT
 * Should type of composability or the way something is rendered be defined on part or whole level?&#x20;
-* Can metadata be dynamic for pieces and how will dynamic metadata for peices effect the composition of whole NFTs?
-* Can ownership of pieces still be used for token gated funciotnality? Does a user still own a piece when combined into a whole? Does ownership of a whole exists if peices have not been cmobined yet?
-* Should the cardinality of composaiblity only be Many->1, is 1->1  composability defined by something else like a evolving NFT? (Wouldn't be a dynamic NFT" because token-id would be different that a dynamic NFT which commonly denotes the same token's metadata changing.&#x20;
+* Can metadata be dynamic for pieces and how will dynamic metadata for pieces effect the composition of whole NFTs?
+* Can ownership of pieces still be used for token gated functionality? Does a user still own a piece when combined into a whole? Does ownership of a whole exists if peices have not been combined yet?
+* Should the cardinality of composability only be Many->1, is 1->1  composability defined by something else like a evolving NFT? (Wouldn't be a dynamic NFT" because token-id would be different that a dynamic NFT which commonly denotes the same token's metadata changing.&#x20;
 
 ## Our Implementation
 
 ## Use Cases
 
+For overall GasPump use cases
 
+{% content-ref url="../../overview/our-features/use-cases.md" %}
+[use-cases.md](../../overview/our-features/use-cases.md)
+{% endcontent-ref %}
 
 
 

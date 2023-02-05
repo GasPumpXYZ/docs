@@ -61,6 +61,7 @@ fn user_expire {
 * How many people can rent 1 NFT?
 * Should we separate out renting into a custodial proxy contract or should we mimic similar implementations as found on Ethereum?
 * What happens when a a NFT is being rented and the owner sells the NFT? Should we prohibit transfers during rental periods
+* Should all NFTs by default be rentable or should this be a setting? If it is a setting should it be update-able?
 
 ## Use Cases
 
