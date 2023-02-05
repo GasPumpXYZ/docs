@@ -1,5 +1,7 @@
 ---
-description: Ideas for future features in the Gaspump toolkit
+description: >-
+  Ideas for future features in the Gaspump toolkit, things we left out, and
+  things we want more builders on Fuel to bring to the ecosystem
 ---
 
 # 💡 Ideas
