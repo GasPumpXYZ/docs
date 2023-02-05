@@ -8,6 +8,15 @@ While we made our standard as robust as possible there is a thin line between en
 
 There are many potentials for the future of Fuel NFTs that we left out.
 
+## Things We Want to See in the Fuel Ecosystem
+
+We can only build so much, if you are interested in implementing the following ideas, start building today.
+
+* DAO Tooling
+* Social Auth Onboarding
+* NFT Swap Marketplace (Bartering)
+* NFT Lending
+
 ## What We Want to Implement
 
 ## What We Left Out

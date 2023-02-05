@@ -14,6 +14,16 @@ NFT Library
 
 {% embed url="https://github.com/FuelLabs/sway-libs/blob/master/libs/nft/src/lib.sw" %}
 
+{% embed url="https://fuellabs.github.io/sway-applications/book/documentation/project-quality/documentation/index.html" %}
+
+Discourse
+
+{% embed url="https://forum.fuel.network/" %}
+
+
+
+
+
 Projects: Awesome Fuel
 
 ## Other NFT Projects
