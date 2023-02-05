@@ -6,11 +6,14 @@
 
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features/README.md)
+  * [🏎 Use Cases](overview/our-features/use-cases.md)
   * [💡 Ideas](overview/our-features/ideas.md)
+  * [🛣 Roadmap](overview/our-features/roadmap.md)
 
 ## ⚒ Build
 
 * [📝 Robust NFT Standard](build/robust-nft-standard/README.md)
+  * [🏚 Renting](build/robust-nft-standard/renting.md)
   * [📔 Source Code](build/robust-nft-standard/source-code.md)
   * [🧩 What is Composability?](build/robust-nft-standard/what-is-composability.md)
   * [🔐 Soul Bound NFT](build/robust-nft-standard/soul-bound-nft.md)
