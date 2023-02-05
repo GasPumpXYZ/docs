@@ -2,13 +2,13 @@
 
 * [👋 Welcome to Gaspump](README.md)
 
-## Overview
+## 👀 Overview
 
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features/README.md)
   * [💡 Ideas](overview/our-features/ideas.md)
 
-## Build
+## ⚒ Build
 
 * [📝 Robust NFT Standard](build/robust-nft-standard/README.md)
   * [📔 Source Code](build/robust-nft-standard/source-code.md)
@@ -17,16 +17,17 @@
   * [🔔 Events](build/robust-nft-standard/events.md)
   * [🏁 Flags](build/robust-nft-standard/flags.md)
   * [👮 Update Authority](build/robust-nft-standard/update-authority.md)
+  * [📂 Collection Mint](build/robust-nft-standard/collection-mint.md)
 * [📦 SDK](build/sdk.md)
 * [🎭 Deploying Your Own Front End](build/deploying-your-own-front-end.md)
 * [🎨 Customize Your Designs](build/customize-your-designs.md)
 
-## Product Guides
+## 🎓 Product Guides
 
 * [☘ Minting Directly on Our dApp](product-guides/minting-directly-on-our-dapp.md)
 * [🎑 View My NFTs](product-guides/view-my-nfts.md)
 
-## Feedback
+## 💬 Feedback
 
 * [🙏 How to Contribute](feedback/how-to-contribute.md)
 
