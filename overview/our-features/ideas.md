@@ -1,7 +1,5 @@
 ---
-description: >-
-  Ideas for future features in the Gaspump toolkit, things we left out, and
-  things we want more builders on Fuel to bring to the ecosystem
+description: Ideas for future features in the Gaspump toolkit
 ---
 
 # 💡 Ideas
@@ -9,15 +7,6 @@ description: >-
 While we made our standard as robust as possible there is a thin line between enabling the ecosystem to flourish and overengineering before actual business use cases emerge, users provide feedback.
 
 There are many potentials for the future of Fuel NFTs that we left out.
-
-## Things We Want to See in the Fuel Ecosystem
-
-We can only build so much, if you are interested in implementing the following ideas, start building today.
-
-* DAO Tooling
-* Social Auth Onboarding
-* NFT Swap Marketplace (Bartering)
-* NFT Lending
 
 ## What We Want to Implement
 

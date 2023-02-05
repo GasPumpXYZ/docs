@@ -21,34 +21,10 @@ Our NFT contract has the following functionalities
 | 🧩  Composability   | Parents, children, set metadata render type. For more on compasbility.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | :bell: Events       | Events emit a view function for others to understnad changes that have happened regarding a NFT without constalty spending resources indexing a NFT checking for changes. This combined with flags can optimize an NFT indexer significantly by understand the nature of a NFT and optimizing for the type of behaviors that can be emitted.                                                                                                                                                                                                                                  |
 | ⛳️ Flags            | <p>Flags are attributes that represent  values that allow indexers to understand the behavior of an NFT before spending extra bandwidth actually looking inside of a NFT's metadata. </p><ul><li>Rich media, ability to tell what media file a NFT URI source is TYPE: ENUM</li><li>Dynamic NFT: Whether NFT is updatable  TYPE: ENUM. Our definition of dynamic NFT is more details that if it can be changed rather, the type of changing.</li><li>Non Transferability: TYPE: Boolean</li><li>Storage: Denote what type of storage; arweave, ipfs, etc TYPE: ENUM</li></ul> |
-| ⿵ Metadata          | Metadata describes the accompanying information about a NFT usually pinned on a decentralized storage solution like Arweave or IPFS                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 🔐 Soul Bound       | Soul bound (recovery, consent-able, non transferability)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ⿵ Metadata          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 🔐 Soul Bound       | Soul bound (recovery, consentable, non transferability)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 📚 Collection Mint  | <ul><li>From mint page, define collection functions </li><li>Whitelist: only predefined list of addresses can mint. Whitelist authority, ability fo whitelist admin(s) to update list -> Can be configured based on token holder proxy contract for token gated mints.</li><li>Mint all to address</li><li>Mint to address list (maybe custom for this)</li><li>Require payment for mint</li></ul>                                                                                                                                                                            |
 | 🪪 Update Authority | Whether NFT(s) can be updated and who can update them                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
-## Learn More About All Functionality Here
-
-{% content-ref url="what-is-composability.md" %}
-[what-is-composability.md](what-is-composability.md)
-{% endcontent-ref %}
-
-{% content-ref url="soul-bound-nft.md" %}
-[soul-bound-nft.md](soul-bound-nft.md)
-{% endcontent-ref %}
-
-{% content-ref url="events.md" %}
-[events.md](events.md)
-{% endcontent-ref %}
-
-{% content-ref url="flags.md" %}
-[flags.md](flags.md)
-{% endcontent-ref %}
-
-{% content-ref url="update-authority.md" %}
-[update-authority.md](update-authority.md)
-{% endcontent-ref %}
-
-##
 
 ## Source Code
 
