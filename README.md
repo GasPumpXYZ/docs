@@ -17,16 +17,16 @@ description: >-
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/our-features/" %}
+[our-features](overview/our-features/)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with GasPump quickly and easily.
 
-{% content-ref url="build/robust-nft-standard.md" %}
-[robust-nft-standard.md](build/robust-nft-standard.md)
+{% content-ref url="build/robust-nft-standard/" %}
+[robust-nft-standard](build/robust-nft-standard/)
 {% endcontent-ref %}
 
 {% content-ref url="build/sdk.md" %}
@@ -51,7 +51,8 @@ We've put together some helpful guides for you to get setup with GasPump quickly
 
 Stay Close to the Pump
 
-* Website [GasPump.xyz](http://gaspump.xyz)
-* Codebase [https://github.com/GasPumpXYZ](https://github.com/GasPumpXYZ)
-* Twitter [https://twitter.com/GasPumpXYZ](https://twitter.com/GasPumpXYZ)
-* Blog [https://medium.com/@gaspump](https://medium.com/@gaspump)
+* 🌎 Website [GasPump.xyz](http://gaspump.xyz)
+* 🛠️ Codebase [https://github.com/GasPumpXYZ](https://github.com/GasPumpXYZ)
+* 🦜 Twitter [https://twitter.com/GasPumpXYZ](https://twitter.com/GasPumpXYZ)
+* ✏️ Blog [https://medium.com/@gaspump](https://medium.com/@gaspump)
+* 📖 Docs [https://docs.gaspump.xyz/](https://docs.gaspump.xyz/)

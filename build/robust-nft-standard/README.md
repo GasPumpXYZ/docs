@@ -1,0 +1,34 @@
+---
+description: >-
+  Our NFT standard has everything you need to build complex use cases on top of
+  your digital assets.
+---
+
+# 📝 Robust NFT Standard
+
+{% hint style="danger" %}
+&#x20;**Deployed on Testnet:** Our contract is deployed on testnet and still has not been audited.&#x20;
+{% endhint %}
+
+## Functionality
+
+Our NFT contract has the following functionalities
+
+| Functionality       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖼️ NFT             | Unique digital asset                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 🔥 Burn             | NFT can be updates                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 🧩  Composability   | Parents, children, set metadata render type. For more on compasbility.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :bell: Events       | Events emit a view function for others to understnad changes that have happened regarding a NFT without constalty spending resources indexing a NFT checking for changes. This combined with flags can optimize an NFT indexer significantly by understand the nature of a NFT and optimizing for the type of behaviors that can be emitted.                                                                                                                                                                                                                                  |
+| ⛳️ Flags            | <p>Flags are attributes that represent  values that allow indexers to understand the behavior of an NFT before spending extra bandwidth actually looking inside of a NFT's metadata. </p><ul><li>Rich media, ability to tell what media file a NFT URI source is TYPE: ENUM</li><li>Dynamic NFT: Whether NFT is updatable  TYPE: ENUM. Our definition of dynamic NFT is more details that if it can be changed rather, the type of changing.</li><li>Non Transferability: TYPE: Boolean</li><li>Storage: Denote what type of storage; arweave, ipfs, etc TYPE: ENUM</li></ul> |
+| ⿵ Metadata          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 🔐 Soul Bound       | Soul bound (recovery, consentable, non transferability)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 📚 Collection Mint  | <ul><li>From mint page, define collection functions </li><li>Whitelist: only predefined list of addresses can mint. Whitelist authority, ability fo whitelist admin(s) to update list -> Can be configured based on token holder proxy contract for token gated mints.</li><li>Mint all to address</li><li>Mint to address list (maybe custom for this)</li><li>Require payment for mint</li></ul>                                                                                                                                                                            |
+| 🪪 Update Authority | Whether NFT(s) can be updated and who can update them                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+## Source Code
+
+{% content-ref url="source-code.md" %}
+[source-code.md](source-code.md)
+{% endcontent-ref %}
+

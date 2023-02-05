@@ -5,7 +5,7 @@ description: We make NFTs easy on Fuel Network.
 # 💡 What we do
 
 {% hint style="info" %}
-**GitBook tip:**&#x20;
+We are actively writing these docs&#x20;
 {% endhint %}
 
 ## Video overview
