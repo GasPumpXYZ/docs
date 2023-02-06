@@ -14,8 +14,8 @@
 
 * [📝 Robust NFT Standard](build/robust-nft-standard/README.md)
   * [📔 Source Code](build/robust-nft-standard/source-code.md)
-  * [🧩 Composability](build/robust-nft-standard/composability.md)
-  * [🔐 Soul Bound](build/robust-nft-standard/soul-bound.md)
+  * [🧩 Composability](build/robust-nft-standard/what-is-composability.md)
+  * [🔐 Soul Bound](build/robust-nft-standard/soul-bound-nft.md)
   * [🔔 Events](build/robust-nft-standard/events.md)
   * [🏁 Flags](build/robust-nft-standard/flags.md)
   * [👮 Update Authority](build/robust-nft-standard/update-authority.md)
@@ -25,7 +25,7 @@
 * [🍧 Design](build/design/README.md)
   * [🌊 User Flow](build/design/user-flow.md)
   * [🪥 Wireframes](build/design/wireframes.md)
-  * [🎨 Customize Our Designs](build/design/customize-our-designs.md)
+  * [🎨 Customize Our Designs](build/customize-your-designs.md)
 * [🎭 Deploying Your Own Front End](build/deploying-your-own-front-end.md)
 
 ## 🎓 Product Guides

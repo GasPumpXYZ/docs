@@ -2,7 +2,7 @@
 description: Designers don't start from scratch, clone our designs on Figma
 ---
 
-# 🎨 Customize Your Designs
+# 🎨 Customize Our Designs
 
 {% hint style="info" %}
 **Don't design from scratch use our template:** not only can you have our open source front end, you can clone our prototyped Figma designs!

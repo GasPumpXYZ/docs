@@ -34,12 +34,12 @@ Not required functionality is denoted as _italicized._&#x20;
 
 ## Learn More About All Functionality Here
 
-{% content-ref url="composability.md" %}
-[composability.md](composability.md)
+{% content-ref url="what-is-composability.md" %}
+[what-is-composability.md](what-is-composability.md)
 {% endcontent-ref %}
 
-{% content-ref url="soul-bound.md" %}
-[soul-bound.md](soul-bound.md)
+{% content-ref url="soul-bound-nft.md" %}
+[soul-bound-nft.md](soul-bound-nft.md)
 {% endcontent-ref %}
 
 {% content-ref url="events.md" %}
