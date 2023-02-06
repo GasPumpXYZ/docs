@@ -14,6 +14,8 @@ In this case composability is not referring to being able to break up smart cont
 
 This is different than a multitoken gated mint that allows a NFT to be minted by having "pre-requisite" NFTs. This is also different than 1 NFT acting a token gate for multiple token whitelists. The main difference here different NFTs are prerequisites for acquiring another rather that combining and disassembling NFTs.&#x20;
 
+In our implementation the NFT pieces must be owned by one owner and vice versa
+
 ## :books: Terms
 
 One might refer to NFTs that combine together into a bigger NFT as children, however we viewed the Children-Parent terminology not suitable as something that can be encompassed by something else doesn't mean it came from that bigger part, like a child does from a parent. So we are using the following terms
@@ -64,9 +66,13 @@ For overall GasPump use cases
 
 ## Looking At Other Ecosystems
 
+#### Solana&#x20;
+
 Metaplex Fusion (lucking the same dev who wrote this is working on this)
 
 {% embed url="https://docs.metaplex.com/programs/fusion/" %}
+
+{% embed url="https://github.com/raindrops-protocol/raindrops" %}
 
 Sui Capsules
 

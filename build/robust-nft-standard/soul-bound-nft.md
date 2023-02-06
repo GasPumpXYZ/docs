@@ -22,8 +22,8 @@ We believe a Soul Bound NFT has the following attributes
 ## 🤔 Questions We Asked Ourselves
 
 * How do we prevent NFT spamming? Consensual NFTs
-* How do we revoke access?
+* How do we revoke access? -> recoverability / revokability
 
 ## 😩 Shortcomings
 
-A wallet can still be transferred off chain.
+* A wallet can still be transferred off chain
