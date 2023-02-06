@@ -4,7 +4,7 @@ description: The who's your daddy of NFTs
 
 # 👮 Update Authority
 
-Update Authority is defined as who is allowed to update a NFT. In the case of the GasPump standrd there could be Update Authority for the follwing robust NFT features
+Update Authority is defined as who is allowed to update a NFT. In the case of the ⛽️ GasPump standard there could be Update Authority for the follwing robust NFT features
 
 * Soul Bound Revocability: who is allowed to take a SBT back
 * Metadata: who can change the metadata of a "dynamic" NFT

@@ -7,6 +7,8 @@ description: >-
 
 # 👋 Welcome to Gaspump
 
+<figure><img src=".gitbook/assets/gaspumpblogexample.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **GasPump tip:** Anyone can launch a NFT with Fuel. Not a developer, don't worry contact us on twitter and we'll help you launch.
 {% endhint %}
@@ -33,12 +35,12 @@ We've put together some helpful guides for you to get setup with GasPump quickly
 [sdk.md](build/sdk.md)
 {% endcontent-ref %}
 
-{% content-ref url="build/deploying-your-own-front-end.md" %}
-[deploying-your-own-front-end.md](build/deploying-your-own-front-end.md)
+{% content-ref url="build/design/" %}
+[design](build/design/)
 {% endcontent-ref %}
 
-{% content-ref url="build/customize-your-designs.md" %}
-[customize-your-designs.md](build/customize-your-designs.md)
+{% content-ref url="build/deploying-your-own-front-end.md" %}
+[deploying-your-own-front-end.md](build/deploying-your-own-front-end.md)
 {% endcontent-ref %}
 
 ## Product Guides
@@ -47,7 +49,7 @@ We've put together some helpful guides for you to get setup with GasPump quickly
 [minting-directly-on-our-dapp.md](product-guides/minting-directly-on-our-dapp.md)
 {% endcontent-ref %}
 
-## Socials
+## :ear: Socials
 
 Stay Close to the Pump
 

@@ -24,8 +24,8 @@ For an indepth look at the **robust** NFT standard check ouit the following sect
 
 Check out the following resource for a deep dive on composabilitiy
 
-{% content-ref url="../../build/robust-nft-standard/what-is-composability.md" %}
-[what-is-composability.md](../../build/robust-nft-standard/what-is-composability.md)
+{% content-ref url="../../build/robust-nft-standard/composability.md" %}
+[composability.md](../../build/robust-nft-standard/composability.md)
 {% endcontent-ref %}
 
 ## 📦 Software Development Kit (SDK)

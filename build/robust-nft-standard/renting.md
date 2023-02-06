@@ -6,9 +6,19 @@ description: Reap the benefits of renting out a NFT without loosing custody
 
 Renting a NFT denotes allowing another person to use a NFT while still retaining ownership.&#x20;
 
-The main reason to standardize this is so marketplaces can properly display which NFTs are being rented out or faciliate rents within marketplaces. This may also affect evaluations as propety indexing this information and have proper flags and events will capture hot property that may not other wise be sold.
+The main reason to standardize this is so marketplaces can properly display which NFTs are being rented out to faciliate rents within marketplaces. This may also affect evaluations as property indexing this information and have proper flags and events will capture hot property that may not otherwise be listed on the markets.
+
+
 
 ## High Level Overview
+
+In our implementation each NFT can only 1 user set at a time can be set as a renter. If a NFT is transferred, renters are unaffected. However only the owner at that time can rent their NFT to a "user"&#x20;
+
+{% hint style="info" %}
+A **user** denotes someone **renting** a NFT.
+{% endhint %}
+
+## Specification
 
 ```rust
 fn setUser (
@@ -20,6 +30,7 @@ fn setUser (
 
 * Sets the user address and when user expires
 * Expires set as UNIX timestamp
+* If a user is already a renter if a user is already added
 * Should emit an error if not a valid token or expiry date (in the past)
 * Emits user\_add event (see below)
 * The user will automatically lose role after the expiry\_date
