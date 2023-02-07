@@ -1,10 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to Gaspump](README.md)
-
 ## 👀 Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [👋 Welcome to Gaspump](README.md)
 * [✨ Our Features](overview/our-features/README.md)
   * [🏎 Use Cases](overview/our-features/use-cases.md)
   * [🛣 Roadmap](overview/our-features/roadmap.md)

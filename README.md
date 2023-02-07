@@ -15,10 +15,6 @@ description: >-
 
 ## :map: Overview
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
 {% content-ref url="overview/our-features/" %}
 [our-features](overview/our-features/)
 {% endcontent-ref %}
@@ -59,3 +55,11 @@ Stay Close to the Pump
 * ✏️ Blog [https://medium.com/@gaspump](https://medium.com/@gaspump)
 * 📖 Docs [https://docs.gaspump.xyz/](https://docs.gaspump.xyz/)
 * :briefcase: LinkedIn [https://www.linkedin.com/company/gaspump](https://www.linkedin.com/company/gaspump)
+
+## Looking to Launch?
+
+{% hint style="info" %}
+We are building and open to proejcts, developers, and branch launching and building with us. Fill out our Launch form to get contacted by a GasPump team member today!
+{% endhint %}
+
+{% embed url="https://www.gaspump.xyz/launch" %}

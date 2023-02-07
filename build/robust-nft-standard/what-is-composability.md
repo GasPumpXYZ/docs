@@ -10,11 +10,13 @@ description: >-
 
 Composability in the context of NFTs is defined as NFTs that can be combined together and subsequently be broken down. This means when pieces are combined into a whole, the pieces cannot be used (transferred).&#x20;
 
-In this case composability is not referring to being able to break up smart contract code into modular components.&#x20;
-
 This is different than a multitoken gated mint that allows a NFT to be minted by having "pre-requisite" NFTs. This is also different than 1 NFT acting a token gate for multiple token whitelists. The main difference here different NFTs are prerequisites for acquiring another rather that combining and disassembling NFTs.&#x20;
 
-In our implementation the NFT pieces must be owned by one owner and vice versa
+In our implementation the NFT pieces must be owned by one owner and vice versa aka "Collect-them-All Composabilitiy"
+
+{% hint style="info" %}
+In this case composability is **not** referring to being able to break up smart contract code into modular components.&#x20;
+{% endhint %}
 
 ## :books: Terms
 
@@ -75,6 +77,8 @@ Metaplex Fusion (lucking the same dev who wrote this is working on this)
 {% embed url="https://github.com/raindrops-protocol/raindrops" %}
 
 Sui Capsules
+
+{% embed url="https://www.capsulecraft.dev/" %}
 
 Ethereum?
 

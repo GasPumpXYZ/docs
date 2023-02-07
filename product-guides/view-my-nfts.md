@@ -1,7 +1,7 @@
 ---
 description: >-
-  Not being able to view your NFTs in our boilerplate, is like finishing using
-  the GasPump, and you never got how much gas & the price
+  Not being able to view your NFTs in our boilerplate, is like using the
+  GasPump, and not seeing the price
 ---
 
 # 🎑 View My NFTs
