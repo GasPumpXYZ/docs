@@ -13,5 +13,5 @@ description: NFTs without flags is a red flag
 | 🔒 Non-transferability      | Boolean         | True/False (True if NFT cannot be transferred)          |
 | 🔑 Non-transferability type | ENUM - MULTIPLE | Consensual, Revocable                                   |
 | 🧩 Composable               | Boolean         | Yes/No                                                  |
-| 🧱 Composability Type       | ENUM            | Trait render, ...??                                     |
+| 🧱 Composability Type       | ENUM            | Trait render, Oracle, Predefined                        |
 

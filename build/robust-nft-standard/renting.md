@@ -6,7 +6,7 @@ description: Reap the benefits of renting out a NFT without loosing custody
 
 Renting a NFT denotes allowing another person to use a NFT while still retaining ownership.&#x20;
 
-The main reason to standardize this is so marketplaces can properly display which NFTs are being rented out to faciliate rents within marketplaces. This may also affect evaluations as property indexing this information and have proper flags and events will capture hot property that may not otherwise be listed on the markets.
+The main reason to standardize this is so marketplaces can properly display which NFTs are being rented out to facilitate rents within marketplaces. This may also affect evaluations as property indexing this information and have proper flags and events will capture hot property that may not otherwise be listed on the markets.
 
 
 

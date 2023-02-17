@@ -27,3 +27,4 @@ We believe a Soul Bound NFT has the following attributes
 ## 😩 Shortcomings
 
 * A wallet can still be transferred off chain
+* Consensual NFT will need to listen on chain for UX to be seamless

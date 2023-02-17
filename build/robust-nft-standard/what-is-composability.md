@@ -31,8 +31,9 @@ This is composability.&#x20;
 ## 🧱 Types of Composability
 
 * Layers: taking from existing assets&#x20;
-* Predetermined outcomes: already existing whole assets uploaded that only point when "piece" conditions are met
+* Predetermined outcomes: already existing whole assets uploaded that only point when "piece" conditions are met.
 * Request for Composition: where after composition and request for media file is made based on metadata conditions is passed in
+* Oracle: dependent on an oracle to update information
 
 
 
