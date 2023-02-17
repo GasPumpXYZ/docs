@@ -18,7 +18,7 @@ Events are defined as JSON outputs emitted when certain state is changed within 
 | nft\_rented           |                                              | <p>{</p><p>      owner: fuelAddress</p><p>      user: fuelAddress</p><p>      tokenID: fuel token ID</p><p>      expiryDate: UNIX timestamp</p><p>      paymentAmount: {optional} - probably should be included</p><p></p><p>}</p> |
 | nft\_rent\_expired    | when NFT expiration date is reached          | <p>{</p><p>      user: fuelAddress</p><p>      tokenID: fuel token ID</p><p>      expiryDate: UNIX timestamp</p><p>}</p>                                                                                                           |
 | nft\_evolved          | when a NFT token evolves into new token      | <p>{</p><p>      user: fuelAddress</p><p>      formerTokenID: fuel token ID</p><p>      newTokenID: fueltokenID</p><p>      proxyContract: contractAddress</p><p></p><p>} </p>                                                     |
-|                       |                                              |                                                                                                                                                                                                                                    |
+| nft\_opened           | When unlockable content is redeemed          | <p>{</p><p>      redeemer: userAddress</p><p>      tokenID: fuel token ID</p><p>} </p>                                                                                                                                             |
 
 {% hint style="info" %}
 Explain how rent expiry event will be emitted
