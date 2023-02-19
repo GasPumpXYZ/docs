@@ -54,6 +54,10 @@ Fuel Nome, .fuel naming protocol
 
 {% embed url="https://medium.com/@ThunderbyFuel/why-we-are-building-an-nft-marketplace-on-fuel-how-is-it-superior-99ae7e09c22f" %}
 
+#### UNIC: Verify Your NFTs
+
+[https://unic.io/](https://unic.io/)&#x20;
+
 #### Fuel ERC721 Implementation
 
 {% embed url="https://github.com/SwayStar123/FRC721/tree/master" %}

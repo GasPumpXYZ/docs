@@ -18,6 +18,7 @@
   * [🏁 Flags](build/robust-nft-standard/flags.md)
   * [👮 Update Authority](build/robust-nft-standard/update-authority.md)
   * [📂 Collection Mint](build/robust-nft-standard/collection-mint.md)
+  * [🔓 Unlockable Content](build/robust-nft-standard/unlockable-content.md)
   * [🏚 Renting](build/robust-nft-standard/renting.md)
 * [📦 SDK](build/sdk.md)
 * [🍧 Design](build/design/README.md)

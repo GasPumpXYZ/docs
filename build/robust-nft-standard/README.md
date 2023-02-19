@@ -55,6 +55,10 @@ Not required functionality is denoted as _italicized._&#x20;
 [update-authority.md](update-authority.md)
 {% endcontent-ref %}
 
+{% content-ref url="unlockable-content.md" %}
+[unlockable-content.md](unlockable-content.md)
+{% endcontent-ref %}
+
 {% content-ref url="collection-mint.md" %}
 [collection-mint.md](collection-mint.md)
 {% endcontent-ref %}
